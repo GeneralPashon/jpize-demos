@@ -1,0 +1,48 @@
+language.code : en_us
+language.name : English
+language.region : United States
+
+menu.singleplayer : Singleplayer
+menu.multiplayer : Multiplayer
+menu.mods : Mods
+menu.jpize.tests.minecraft.options : Options...
+menu.quit : Quit Game
+
+jpize.tests.minecraft.options.title : Options
+jpize.tests.minecraft.options.videoSettings : Graphics...
+jpize.tests.minecraft.options.audioSettings : Audio...
+jpize.tests.minecraft.options.language : Language...
+jpize.tests.minecraft.options.controls : Controls...
+jpize.tests.minecraft.options.resourcePacks : Resources...
+
+audioSettings.title : Audio Settings
+audioSettings.master : Master Volume: %s%
+audioSettings.music : Music: %s%
+audioSettings.ambient : Ambient: %s%
+audioSettings.players : Players: %s%
+audioSettings.blocks : Blocks: %s%
+audioSettings.weather : Weather: %s%
+audioSettings.device : Device: %s
+
+videoSettings.title : Video Settings
+videoSettings.fov : FOV: %s
+videoSettings.maxFramerate : Max Framerate: %s
+videoSettings.renderDistance : Render Distance: %s
+videoSettings.fullscreen : Fullscreen: %s
+videoSettings.mipmapLevels : Mipmap Levels: %s
+videoSettings.showFps : Show FPS: %s
+
+selectWorld.title : Select World
+selectWorld.edit : Edit
+selectWorld.delete : Delete
+selectWorld.recreate : Re-Create
+selectWorld.play : Play Selected World
+selectWorld.create : Create New World
+
+jpize.tests.minecraft.gui.done : Done
+jpize.tests.minecraft.gui.cancel : Cancel
+
+text.off : OFF
+text.on : ON
+text.unlimited : Unlimited
+text.vSync : V-Sync
